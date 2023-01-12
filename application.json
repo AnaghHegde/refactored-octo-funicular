@@ -19,6 +19,11 @@
       "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     }
   ],
+  "publishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 1,
   "isManualUpdate": false,
