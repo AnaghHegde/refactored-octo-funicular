@@ -14,6 +14,11 @@
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
   "icon": "moon",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 1,
   "isManualUpdate": false,
