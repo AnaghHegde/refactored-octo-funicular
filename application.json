@@ -33,7 +33,11 @@
       "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
     }
   ],
-  "publishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [
+    {
+      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 1,
   "isManualUpdate": false,
